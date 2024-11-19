@@ -2,8 +2,8 @@
 <project version="4">
   <component name="RuffConfigService">
     <option name="alwaysUseGlobalRuff" value="true" />
-    <option name="globalRuffExecutablePath" value="C:\Users\ishisaka\src\work_fastapi\.venv\Scripts\ruff.exe" />
-    <option name="globalRuffLspExecutablePath" value="C:\Users\ishisaka\src\work_fastapi\.venv\Scripts\ruff-lsp.exe" />
+    <option name="globalRuffExecutablePath" value="$USER_HOME$/.local/bin/ruff" />
+    <option name="globalRuffLspExecutablePath" value="$USER_HOME$/.local/bin/ruff-lsp" />
     <option name="useRuffFormat" value="true" />
     <option name="useRuffLsp" value="true" />
   </component>
