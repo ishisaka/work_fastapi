@@ -235,3 +235,4 @@ cython_debug/
 
 
 /async_sqlalchemy/example.sqlite
+/fast_api_memoapp/memodb.sqlite

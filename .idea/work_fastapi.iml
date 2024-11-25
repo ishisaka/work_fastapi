@@ -29,4 +29,13 @@
     <option name="format" value="GOOGLE" />
     <option name="myDocStringFormat" value="Google" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/fast_api_memoapp/routers" />
+        <option value="$MODULE_DIR$/fast_api_memoapp/schemas" />
+        <option value="$MODULE_DIR$/fast_api_memoapp/cruds" />
+      </list>
+    </option>
+  </component>
 </module>
